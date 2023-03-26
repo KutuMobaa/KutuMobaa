@@ -26,7 +26,7 @@ https://t.me/kutu_Moba57
 </details>
 
 #
-![https://youtube.com/@KutuMoba](https://img.shields.io/badge/YouTube-fff200?style=for-the-badge&logo=youtube&logoColor=red)
+![https://youtube.com/@KutuMoba](https://img.shields.io/badge/YouTube-c5f015?style=for-the-badge&logo=youtube&logoColor=red)
 <details><summary>Details</summary>
 <p>
 https://youtube.com/@KutuMoba
