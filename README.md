@@ -1,4 +1,4 @@
-### Hi there 👋
+### I Am Kutu Moba  👋
 
 <!--
 **KutuMobaa/KutuMobaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Selamat+Datang+Di+Dunia+Matrix;Semua+Repository+Sudah+Teruji)](https://git.io/typing-svg)
+#
+
+#
+![https://t.me/kutu_Moba57](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+#
+ ![https://youtube.com/@KutuMoba](https://img.shields.io/badge/YouTube-fff200?style=for-the-badge&logo=youtube&logoColor=red)
+#
+![KutuMobaa GitHub stats](https://github-readme-stats.vercel.app/api?username=KutuMobaa&show_icons=true&theme=radical)
