@@ -18,20 +18,12 @@ Here are some ideas to get you started:
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salam+Hormat;JIEN+SHOO)](https://git.io/typing-svg)
 #
-![https://t.me/kutu_Moba57](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-<details><summary>Details</summary>
-<p>
-https://t.me/kutu_Moba57
-</p>
-</details>
+![https://t.me/kutu_Moba57](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 👉
+[KLIK](https://t.me/kutu_Moba57)
 
 #
-![https://youtube.com/@KutuMoba](https://img.shields.io/badge/YouTube-c5f015?style=for-the-badge&logo=youtube&logoColor=red)
-<details><summary>Details</summary>
-<p>
-https://youtube.com/@KutuMoba
-</p>
-</details> 
+![https://youtube.com/@KutuMoba](https://img.shields.io/badge/YouTube-c5f015?style=for-the-badge&logo=youtube&logoColor=red) 👉 
+[KLIK](https://youtube.com/@KutuMoba)
 
 #
 ![KutuMobaa GitHub stats](https://github-readme-stats.vercel.app/api?username=KutuMobaa&show_icons=true&theme=radical)
