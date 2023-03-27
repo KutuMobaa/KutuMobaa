@@ -1,4 +1,4 @@
-<h3 align="center">Salam Hormat Kami Dari Kutu Moba Developer Dan Pengembang Script </h3>
+<h3 align="center">Salam Hormat Kami Dari Kutu Moba Developer Pengembang Script </h3>
 
 
 
