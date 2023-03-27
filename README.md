@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 ![KutuMobaa GitHub stats](https://github-readme-stats.vercel.app/api?username=KutuMobaa&show_icons=true&theme=radical)
 #
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KutuMobaa&label=Profile%20views&color=c5f015&style=flat"alt="KutuMobaa" /> </p>
+<h3 align= "left">Bahasa dan Alat:</h3>
+<p align="left"> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src ="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketsa" width="40" height="40"/> </a> </p>
