@@ -1,8 +1,8 @@
 <h3 align="center">Salam Hormat Kami Dari Kutu Moba Developer Pengembang Script </h3>
 
-
-
-
+<h3 align="left">Terhubung dengan saya:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/kutu moba"target="blank">YouTube<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kutu moba" height="30" width="40" /></a>
 
 <!--
 **KutuMobaa/KutuMobaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
