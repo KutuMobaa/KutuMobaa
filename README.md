@@ -1,6 +1,5 @@
 ### <h3 align="center">Salam Hormat Kami Dari Predator Whe_U Developer Dan Pengembang </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KutuMobaa&label=Profile%20views&color=c5f015&style=flat"alt="KutuMobaa" /> </p>
 
 
 
@@ -32,3 +31,6 @@ Here are some ideas to get you started:
 
 #
 ![KutuMobaa GitHub stats](https://github-readme-stats.vercel.app/api?username=KutuMobaa&show_icons=true&theme=radical)
+#
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KutuMobaa&label=Profile%20views&color=c5f015&style=flat"alt="KutuMobaa" /> </p>
