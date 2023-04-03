@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 #
 <h3 align="left">Dukung Kami :</h3>
 
-![https://t.me/kutu_Moba57](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ⏩
-[KLIK DISINI](https://t.me/kutu_Moba57)
+
+[Telegram](https://t.me/kutu_Moba57)
 
 
 <p align="left">
