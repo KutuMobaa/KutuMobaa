@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salam+Hormat;JIEN+SHOO)](https://git.io/typing-svg)
 #
 #
-
+#
+[Buat Beli Pc](https://saweria.co/KutuMoba57)
 #
 ![KutuMobaa GitHub stats](https://github-readme-stats.vercel.app/api?username=KutuMobaa&show_icons=true&theme=radical)
 #
