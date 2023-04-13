@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 #
 
 
-<h3 align= "left"></h3>
-<p align="left"> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src ="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketsa" width="40" height="40"/> </a> </p>
 
 #
 <h3 align="left">Dukung Kami :</h3>
 
+[Donasi](https://saweria.co/KutuMoba57)
 
 [Telegram](https://t.me/kutu_Moba57)
 
