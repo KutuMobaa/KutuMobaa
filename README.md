@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #
 #
 #
-[Buat Beli Pc](https://saweria.co/KutuMoba57)
+[Buat Beli Pc](https://sociabuzz.com/kutumoba)
 #
 ![KutuMobaa GitHub stats](https://github-readme-stats.vercel.app/api?username=KutuMobaa&show_icons=true&theme=radical)
 #
