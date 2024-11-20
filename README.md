@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 #
 <h3 align="left">Dukung Kami :</h3>
 
-[Donasi](https://saweria.co/KutuMoba57)
+[Donasi](https://sociabuzz.com/kutumoba)
 
 [Telegram](https://t.me/kutu_Moba57)
 
